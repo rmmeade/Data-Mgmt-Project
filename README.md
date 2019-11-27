@@ -16,4 +16,26 @@
       - restrictions
       - unit
       - manifest (XML)
-#### - 
+  - Charges.ipynb
+      - creates "charges.csv" and "charges_clean.csv" 
+         - charges.csv is the compiled 10 years of "charges" files
+         - charges_clean.csv is reduced columns to those used in analysis
+  - crash.ipynb
+      - creates "crash.csv" and "crash_clean.csv" 
+         - crash.csv is the compiled 10 years of "charges" files
+         - crash.csv is reduced columns to those used in analysis
+  - damages.ipynb
+      - creates "damages.csv" 
+         - damages.csv is the compiled 10 years of "charges" files, reduced columns to those used
+  - primary_person.ipynb
+      - creates "primary_person.csv" and "primary_person_clean.csv" 
+         - primary_person.csv is the compiled 10 years of "charges" files
+         - primary_person_clean.csv is reduced columns to those used in analysis
+  - unit.ipynb
+      - creates "unit.csv" and "unit_clean.csv" 
+         - unit.csv is the compiled 10 years of "charges" files
+         - unit_clean.csv is the compiled 10 years of "charges" files, reduced columns to those used
+#### - Cleaned Data
+  - \_cleaned.csv
+  - \_cleaned.csv
+      - Reduced columns 
