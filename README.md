@@ -1,7 +1,7 @@
 # Data-Mgmt-Project
-### Link to Slide Deck for Presentation: https://docs.google.com/presentation/d/1vByxupPbw71KWEbYRZtFBpxnVZsEWIN_vJ5G1plcRL8/
+##### Link to Slide Deck for Presentation: https://docs.google.com/presentation/d/1vByxupPbw71KWEbYRZtFBpxnVZsEWIN_vJ5G1plcRL8/
 
-### Replicate Analysis: 
+### How to Replicate Analysis: 
 All Python Notebooks used to generate insights are located in the "Cleaned Data and Source Code" folder. Other files used in generating inights include the Databricks Archive used in EDA and to gain some peliminary insights into the data. The file structure is detailed below to facilitate navigation. 
 
 ### File Structure: 
