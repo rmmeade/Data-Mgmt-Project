@@ -27,6 +27,9 @@
   - damages.ipynb
       - creates "damages.csv" 
          - damages.csv is the compiled 10 years of "charges" files, reduced columns to those used
+  - person.ipynb
+      - creates "person.csv" 
+         - primary_person.csv is the compiled 10 years of "charges" files
   - primary_person.ipynb
       - creates "primary_person.csv" and "primary_person_clean.csv" 
          - primary_person.csv is the compiled 10 years of "charges" files
@@ -35,7 +38,21 @@
       - creates "unit.csv" and "unit_clean.csv" 
          - unit.csv is the compiled 10 years of "charges" files
          - unit_clean.csv is the compiled 10 years of "charges" files, reduced columns to those used
-#### - Cleaned Data
-  - \_cleaned.csv
-  - \_cleaned.csv
-      - Reduced columns 
+#### - Cleaned Data and Source Code
+  - Visualizations folder includes pictures of graphs (.png & .jpg) and python outputs
+  - Main folder includes copies of all the "clean" csv's generated from the full data
+  - SQL_queries.dbc
+      - Databricks Archive file with SQL queries on data
+  - Yearly and Monthly Population Estimates for the City of Austin 
+      - AustinMonthlyPop.csv
+      - AustinPop.csv
+  - Time_period_and_demo_segments.ipynb
+      - Python notebook with analysis on time periods and demographics of incidents
+  - demo_output.csv, demographic.csv, demooutput2.csv
+      - output csv file from Time_period_and_demo_segments Python notebook
+  - driving_alcohol_result.ipynb
+      - Python notebook to investigate ridesharing's effect on Drunk Driving incidents in Austin
+  - drunk driving analysis and regression.ipynb
+      - Python notebook used in investigation of ridesharing & Drunk Driving incidents
+  - location_analysis.ipynb
+      - location analysis for heatmap
