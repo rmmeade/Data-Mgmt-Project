@@ -6,7 +6,21 @@ All Python Notebooks used to generate insights are located in the "Cleaned Data 
 
 ### File Structure: 
 #### - Cleaned Data and Source Code
-  - Visualizations folder includes pictures of graphs (.png & .jpg) and python outputs
+  - Visualizations folder includes pictures of graphs (.png & .jpg) and python output
+    - Tableau Outputs: 
+      - Demographics.twb
+      - Tableau Outputs.twb
+      - age.twb
+      - gender.twb
+    - PNG & JPEGS of Graphs
+      - monthly_crashes.png
+      - night_crashes.png
+      - normalized_num_crashes.png
+      - num_crashes.png
+      - num_crashes_tod.png
+      - severity235_crashes.png
+      - severity_crashes.png
+      - weekday_crashes.png
   - Main folder includes copies of all the "clean" csv's generated from the full data
   - SQL_queries.dbc
       - Databricks Archive file with SQL queries on data
