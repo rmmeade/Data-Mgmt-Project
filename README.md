@@ -31,8 +31,8 @@ All Python Notebooks used to generate insights are located in the "Cleaned Data 
       - Python notebook with analysis on time periods and demographics of incidents
   - demo_output.csv, demooutput2.csv
       - output csv file from Time_period_and_demo_segments Python notebook
-  - demographics.csv
-      - output csv file from Demographics Python notebook      
+  - demographics.csv, normalized_age_data.csv, normalized_gender_data.csv
+      - output csv files from Demographics Python notebook to investigate age and gender insights of incidents.     
   - driving_alcohol_result.ipynb
       - Python notebook to investigate ridesharing's effect on Drunk Driving incidents in Austin
   - drunk driving analysis and regression.ipynb
