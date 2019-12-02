@@ -15,8 +15,10 @@ All Python Notebooks used to generate insights are located in the "Cleaned Data 
       - AustinPop.csv
   - Time_period_and_demo_segments.ipynb
       - Python notebook with analysis on time periods and demographics of incidents
-  - demo_output.csv, demographic.csv, demooutput2.csv
+  - demo_output.csv, demooutput2.csv
       - output csv file from Time_period_and_demo_segments Python notebook
+  - demographics.csv
+      - output csv file from Demographics Python notebook      
   - driving_alcohol_result.ipynb
       - Python notebook to investigate ridesharing's effect on Drunk Driving incidents in Austin
   - drunk driving analysis and regression.ipynb
